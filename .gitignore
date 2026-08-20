@@ -1,0 +1,16 @@
+/build/
+/dist/
+/pingcert
+/pingcert.exe
+*.out
+*.test
+coverage.out
+
+.idea/
+.vscode/
+*.swp
+.DS_Store
+Thumbs.db
+.env
+.env.*
+!.env.example
